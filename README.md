@@ -12,6 +12,7 @@ You can find the course on Udemy: [100 Days of Code: The Complete Python Pro Boo
 
 - `Day 1 - [day_1]`  
 - `Day 2 - [day_2]`
+  
 (And so on up to Day 100.)
 
 
