@@ -19,6 +19,6 @@ You can find the course on Udemy: [100 Days of Code: The Complete Python Pro Boo
 
 If you have any questions or suggestions, feel free to contact me:
 
-- Email: santoscmarina@hotmai.com
+- Email: santoscmarina@hotmail.com
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/marina-cesconeto-dos-santos-a17563216/)
 
