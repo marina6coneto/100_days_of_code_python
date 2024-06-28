@@ -7,7 +7,7 @@ def clear():
 print(logo)
 
 bids = {}
-bidding_finished = False
+bidding_started = True
 
 def find_highest_bidder(bidding_record):
     highest_bid = 0
@@ -18,13 +18,13 @@ def find_highest_bidder(bidding_record):
             winner = bidder
     print(f'The winner is {winner} with a bid of ${highest_bid}')
     
-while not bidding_finished:
+while bidding_started:
     name = input('What is your name?\n ')
     price = int(input('What is your bid? $\n'))
     bids[name] = price
     should_continue = input('Are there any other bidders? type "yes" or "no" ').strip().lower()
     if should_continue == 'no':
-        bidding_finished = True
+        bidding_starded = False
         find_highest_bidder(bids)
     elif should_continue == 'yes':
         clear()
