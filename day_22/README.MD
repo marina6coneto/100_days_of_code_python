@@ -7,6 +7,7 @@ This is a simple Pong game implemented in Python using the Turtle library. The g
 - Two players can control the paddles using the keyboard.
 - The ball moves automatically and bounces off the screen edges and paddles.
 - The game keeps track of each player's score and displays it on the screen.
+- The game ends when a player reaches 10 points, and the winner is displayed on the screen.
 
 ## How to Run the Project
 
@@ -33,4 +34,5 @@ This is a simple Pong game implemented in Python using the Turtle library. The g
 - Each player controls a paddle to bounce the ball.
 - The ball will bounce off the top and bottom edges of the screen and the paddles.
 - If the ball passes by one of the paddles, the opposing player scores a point.
-- The game will continue until you close the game window.
+- The game will continue until one player reaches 10 points. At that point, the game ends and the winner is displayed on the screen.
+- You can close the game window at any time to end the game.
