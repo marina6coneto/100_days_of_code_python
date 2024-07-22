@@ -10,8 +10,8 @@ screen.setup(800, 600)
 screen.title('My pong game')
 screen.tracer(0)
 
-r_paddle = Paddle((373,0))
-l_paddle = Paddle((-380,0))
+r_paddle = Paddle((373, 0))
+l_paddle = Paddle((-380, 0))
 ball = Ball()
 scoreboard = Scoreboard()
 
@@ -46,10 +46,8 @@ while game_is_on:
         ball.reset_position()
         scoreboard.r_point()
 
+    # Check if there is a winner
     if scoreboard.check_winner():
         game_is_on = False
-    
-        
-        
 
 screen.exitonclick()
