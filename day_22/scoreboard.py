@@ -1,6 +1,5 @@
 from turtle import Turtle
 
-
 class Scoreboard(Turtle):
     
     def __init__(self):
@@ -12,7 +11,6 @@ class Scoreboard(Turtle):
         self.r_score = 0
         self.update_scoreboard()
         
-            
     def update_scoreboard(self):
         self.clear()
         self.goto(0, 250)
@@ -40,5 +38,3 @@ class Scoreboard(Turtle):
             self.write("Right Player Wins!", align='center', font=('Courier', 24, 'bold'))
             return True
         return False
-            
-    
