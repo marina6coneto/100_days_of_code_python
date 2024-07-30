@@ -1,4 +1,4 @@
-from pandas import DataFrame, read_csv
+from pandas import read_csv
 
 data = read_csv('day_26/nato_phonetic_alphabet.csv')
 
