@@ -6,8 +6,8 @@ from pandas import read_csv
 ##################### Birthday Wisher Project ######################
 
 
-MY_EMAIL = 'mionegwp@gmail.com'
-PASSWORD = 'mfrx fhso sdul iqad'
+MY_EMAIL = 'INSIRA SEU EMAIL AQUI'
+PASSWORD = 'INSIRA SUA SENHA AQUI'
 
 
 now = datetime.now()
