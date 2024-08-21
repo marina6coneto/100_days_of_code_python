@@ -16,7 +16,7 @@ The project has the following structure:
 │   │   ├── letter_2.txt
 │   │   └── letter_3.txt
 └── main.py
-
+.
 
 - **`birthday.csv`**: This CSV file contains the list of birthdays with the columns: `name`, `email`, `year`, `month`, and `day`.
 - **`letter_templates`**: This folder contains three letter templates (`letter_1.txt`, `letter_2.txt`, `letter_3.txt`). Each template includes a placeholder `[NAME]` that will be replaced by the recipient's name.
