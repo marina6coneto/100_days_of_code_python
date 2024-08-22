@@ -3,6 +3,7 @@
 - This project is a simple automation script that sends personalized birthday wishes via email. 
 - It checks a CSV file containing birthday data and matches it with the current date.
 - If it's someone's birthday, the program randomly selects a birthday letter template, customizes it with the person's name, and sends the email.
+- *This project is part of the "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu on Udemy.*
 
 ## Project Structure
 
@@ -49,3 +50,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install pandas
+
+
+
+
