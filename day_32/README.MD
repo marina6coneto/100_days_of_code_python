@@ -8,13 +8,19 @@
 
 The project has the following structure:
 
-.
+
 ├── day_32
+
 │   ├── birthday.csv
+
 │   ├── letter_templates
+
 │   │   ├── letter_1.txt
+
 │   │   ├── letter_2.txt
+
 │   │   └── letter_3.txt
+
 └── main.py
 
 
