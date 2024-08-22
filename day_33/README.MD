@@ -11,7 +11,7 @@
 
 ## Screenshots
 
-![App Screenshot](day_33/kanye.png) 
+![App Screenshot](kanye.png) 
 
 ## Requirements
 
