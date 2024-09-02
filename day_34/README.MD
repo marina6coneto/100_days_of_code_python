@@ -89,5 +89,5 @@ This project is developed as part of the **100 Days of Code: The Complete Python
 ![Correct Answer](images/right.png)
 
 **Quiz Ended**  
-![Quiz Ended](images/fineshed.png)
+![Quiz Ended](images/finished.png)
 
