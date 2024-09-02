@@ -76,3 +76,18 @@ Once the quiz ends, a message will be displayed, and the buttons will be disable
 ## Acknowledgements
 
 This project is developed as part of the **100 Days of Code: The Complete Python Pro Bootcamp** by Angela Yu.
+
+## Screenshots
+
+**Initial Screen**  
+![Initial Screen](images/canva.png)
+
+**Incorrect Answer**  
+![Incorrect Answer](images/wrong.png)
+
+**Correct Answer**  
+![Correct Answer](images/right.png)
+
+**Quiz Ended**  
+![Quiz Ended](images/fineshed.png)
+
