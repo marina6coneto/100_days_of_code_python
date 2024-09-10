@@ -59,4 +59,4 @@ This project is part of the **100 Days of Code: The Complete Python Pro Bootcamp
 
 ---
 
-![SMS Notification](.\screenshots\sms.jpg)
+![SMS Notification](./screenshots/sms.jpg)
