@@ -55,8 +55,8 @@ This project is part of the **100 Days of Code: The Complete Python Pro Bootcamp
    ```
 # Stock Price and News Alert Application
 
-![Notification Background](day_36/screenshots/background.jpg)
+![Notification Background](./screenshots/background.jpg)
 
 ---
 
-![SMS Notification](day_36\screenshots\sms.jpg)
+![SMS Notification](.\screenshots\sms.jpg)
