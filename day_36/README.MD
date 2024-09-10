@@ -1,7 +1,8 @@
 # Day 36: Stock Price and News Alert Application
 
-This Python application tracks the stock price of Tesla Inc. (TSLA) and sends SMS alerts when there is a significant price change. If the price difference exceeds 1%, the app also fetches relevant news articles and sends them via SMS.
-This project is part of the **100 Days of Code: The Complete Python Pro Bootcamp** by Angela Yu.
+- This Python application tracks the stock price of Tesla Inc. (TSLA) and sends SMS alerts when there is a significant price change.
+- If the price difference exceeds 1%, the app also fetches relevant news articles and sends them via SMS.
+- This project is part of the **100 Days of Code: The Complete Python Pro Bootcamp** by Angela Yu.
 
 ## Features
 - Retrieves daily stock data for Tesla Inc. (TSLA) from Alpha Vantage API.
