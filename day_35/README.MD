@@ -1,6 +1,7 @@
 # Day_35: Weather Notification Project
 
 This project is a weather notification system that checks if it's going to rain based on your location and sends an SMS alert using the Twilio API.
+This project is part of the **100 Days of Code: The Complete Python Pro Bootcamp** by Angela Yu.
 
 ## Project Overview
 
@@ -59,6 +60,4 @@ This Python project fetches weather data from an external API and checks if rain
    ```
 3. If rain is predicted in the coming hours, you will receive an SMS notification.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is part of the **100 Days of Code: The Complete Python Pro Bootcamp** by Angela Yu.
