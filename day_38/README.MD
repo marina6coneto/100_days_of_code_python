@@ -1,7 +1,8 @@
 
 # Day 38: Exercise Tracker with Nutritionix API and Google Sheets Integration
 
-This Python script allows you to track your exercises by integrating with the Nutritionix API. It records the exercises you perform, along with their duration and calories burned, and logs them into a Google Sheet.
+- This Python script allows you to track your exercises by integrating with the Nutritionix API.
+- It records the exercises you perform, along with their duration and calories burned, and logs them into a Google Sheet.
 
 ## Features
 - Input your daily exercises and track details such as exercise name, duration, and calories burned.
