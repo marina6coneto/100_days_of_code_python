@@ -7,17 +7,27 @@ This repository contains five HTML files that I worked on during my studies. The
 ### 1. anchor.html
 This file showcases a list of my top 5 favorite websites, using HTML anchor tags to link to external websites.
 
+![Anchor](screenshots/anchor.png)
+
 ### 2. birthday_invite.html
 This file simulates a birthday invitation with details on the date, a list of items to bring, and a Google Maps link to the event location.
+
+![Birthday Invite](screenshots/birthday_invite.png)
 
 ### 3. img.html
 This file demonstrates how to use images in HTML. It displays pictures of a puppy and a kitten to represent a "dog person" and a "cat person."
 
+![Img](screenshots/img.png)
+
 ### 4. indentation.html
 This file illustrates how to properly indent nested lists in HTML, showing the use of ordered and unordered lists with various levels of nesting.
 
+![Indentation](screenshots/indentation.png)
+
 ### 5. index.html 
 A simple recipe for cinnamon rolls, showcasing the use of headings, lists, and ordered instructions.
+
+![Index](screenshots/index.png)
 
 ## How to Run the Project
 
