@@ -25,7 +25,7 @@ A simple recipe for cinnamon rolls, showcasing the use of headings, lists, and o
 2. Open any of the HTML files in a web browser to view the content.
 
 ```bash
-git clone <https://github.com/marina6coneto/100_days_of_code_python/tree/master/day_42/>
+git clone https://github.com/marina6coneto/100_days_of_code_python.git
 ```
 
 Enjoy exploring HTML structures!
