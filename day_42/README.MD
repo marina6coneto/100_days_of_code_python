@@ -1,5 +1,4 @@
-
-# HTML Study - Day of Study
+# Day 42: HTML Study 
 
 This repository contains five HTML files that I worked on during my studies. The files cover basic HTML structures such as links, images, lists, and indentation.
 
@@ -26,7 +25,7 @@ A simple recipe for cinnamon rolls, showcasing the use of headings, lists, and o
 2. Open any of the HTML files in a web browser to view the content.
 
 ```bash
-git clone <https://github.com/marina6coneto/100_days_of_code_python/tree/master/day_42>
+git clone <https://github.com/marina6coneto/100_days_of_code_python/tree/master/day_42/>
 ```
 
 Enjoy exploring HTML structures!
