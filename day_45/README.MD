@@ -25,7 +25,7 @@ pip install requests beautifulsoup4
 2. Make sure you have installed the necessary libraries.
 3. Run the Python script using the following command:
 ```bash
-python <script_name>.py
+python <onehundred_movies_to_watch>.py
 ```
 4. The movie titles will be written to `movies.txt`.
 
