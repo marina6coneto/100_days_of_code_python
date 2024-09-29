@@ -24,6 +24,3 @@ from the Internet Archive's Wayback machine. That way your work will match the s
 
 (Do *not* use https://www.empireonline.com/movies/features/best-movies-2/ which I've used in the screen recording)
 
-# Solution
-
-You can find the code from my walkthrough and solution as a downloadable .zip file in the course resources for this lesson. 
