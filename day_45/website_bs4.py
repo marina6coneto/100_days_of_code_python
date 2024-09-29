@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-response = requests.get('https://news.ycombinator.com/news')
+response = requests.get('YOUR LINK HERE')
 
 yc_web_page = response.text
 
