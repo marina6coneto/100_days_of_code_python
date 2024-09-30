@@ -3,6 +3,8 @@
 - This project allows you to create a Spotify playlist from the Billboard Hot 100 chart for a specific date.
 - Using web scraping and the Spotify API, it fetches song names from the Billboard website and adds them to a private Spotify playlist.
 
+![my playlist](.\screenshot\playlist.png)
+
 ## Features
 
 - Scrapes the Billboard Hot 100 songs for a specific date.
