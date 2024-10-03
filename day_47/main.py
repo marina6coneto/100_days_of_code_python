@@ -39,7 +39,7 @@ price_as_float = float(price_without_currency)
 
 title = soup.find(id = 'productTitle').get_text().strip()
  
-BUY_PRICE = 162
+BUY_PRICE = 140
 
 if price_as_float < BUY_PRICE:
     message = f"{title} is on sale for {price_as_float}! Buy it now!"
